@@ -1,0 +1,9 @@
+how to use index.html files to use your js files inside a website.
+
+This is another files that you have to add to your javascrript p5 files to produce the actual visual that makes the whole project. 
+
+1. JavaScript frameworks.
+A framework is basically a library of code for certain language. Frame works don't really do anything on their own, they just provide an eaiser for coders to utilize their code.
+
+2. Using the framework .
+to use the frame work you need to put it inside your folder that you are using on the server 
