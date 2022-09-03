@@ -1,1 +1,199 @@
+Processing is similar to p5js but is a more complex in depth version of the original library and allows you to do more. it is a library that is used to create visuals and interactive art in code. 
+
+What are the basic structrure components of processing?
+
+Structure
+
+[] (array access)
+The array access operator is used to specify a location within an array
+
+= (assign)
+Assigns a value to a variable
+
+catch The catch keyword is used with try to handle exceptions
+
+class
+Keyword used to indicate the declaration of a class
+
+, (comma)
+Separates parameters in function calls and elements during assignment
+
+// (comment)
+Explanatory notes embedded within the code
+
+{} (curly braces)
+Define the beginning and end of functions blocks and statement blocks such as the for and if structures
+
+/** */ (doc comment)
+Explanatory notes embedded within the code
+
+. (dot)
+Provides access to an object's methods and data
+
+draw()
+Called directly after setup() and continuously executes the lines of code contained inside its block until the program is stopped or noLoop() is called
+
+exit()
+Quits/stops/exits the program
+
+extends
+Allows a new class to inherit the methods and data fields (variables and constants) from an existing class
+
+false
+Reserved word representing the logical value "false"
+
+final
+Keyword used to state that a value, class, or method can't be changed
+
+implements
+Implements an interface or group of interfaces
+
+import
+The keyword import is used to load a library into a Processing sketch
+
+loop()
+Causes Processing to continuously execute the code within draw()
+
+/* */ (multiline comment)
+Explanatory notes embedded within the code
+
+new
+Creates a "new" object
+
+noLoop()
+Stops Processing from continuously executing the code within draw()
+
+null
+Special value used to signify the target is not a valid data element
+
+() (parentheses)
+Grouping and containing expressions and parameters
+
+popStyle()
+Saves the current style settings and popStyle() restores the prior settings
+
+pop()
+The pop() function restores the previous drawing style settings and transformations after push() has changed them
+
+private
+This keyword is used to disallow other classes access to the fields and methods within a class
+
+public
+Keyword used to provide other classes access the fields and methods within a class
+
+pushStyle()
+Saves the current style settings and popStyle() restores the prior settings
+
+push()
+The push() function saves the current drawing style settings and transformations, while pop() restores these settings
+
+redraw()
+Executes the code within draw() one time
+
+return
+Keyword used to indicate the value to return from a function
+
+; (semicolon)
+A statement terminator which separates elements of the program
+
+setLocation()
+The setLocation() function defines the position of the Processing sketch in relation to the upper-left corner of the computer screen
+
+setResizable()
+By default, Processing sketches can't be resized
+
+setTitle()
+The setTitle() function defines the title to appear at the top of the sketch window
+
+setup()
+The setup() function is called once when the program starts
+
+static
+Keyword used to define a variable as a "class variable" and a method as a "class method
+
+super
+Keyword used to reference the superclass of a subclass
+
+this
+Refers to the current object (i
+
+thread()
+Launch a new thread and call the specified function from that new thread
+
+true
+Reserved word representing the logical value "true"
+
+try
+The try keyword is used with catch to handle exceptions
+
+void
+Keyword used to indicate that a function returns no value
+
+
+Enviroment
+
+Cursor()
+Sets the cursor to a predefined symbol, an image, or makes it visible if already hidden
+
+delay()
+The delay() function causes the program to halt for a specified time
+
+displayDensity()
+Returns "2" if the screen is high-density and "1" if not
+
+displayHeight
+Variable that stores the height of the computer screen
+
+displayWidth
+Variable that stores the width of the computer screen
+
+focused
+Confirms if a Processing program is "focused"
+
+frameCount
+The system variable that contains the number of frames displayed since the program started
+
+frameRate
+The system variable that contains the approximate frame rate of the software as it executes
+
+fullScreen()
+Opens a sketch using the full size of the computer's display
+
+height
+System variable which stores the height of the display window
+
+noCursor()
+Hides the cursor from view
+
+noSmooth()
+Draws all geometry and fonts with jagged (aliased) edges and images with hard edges between the pixels when enlarged rather than interpolating pixels
+
+pixelDensity()
+It makes it possible for Processing to render using all of the pixels on high resolutions screens
+
+pixelHeight
+The actual pixel height when using high resolution display
+
+pixelWidth
+The actual pixel width when using high resolution display
+
+settings()
+Used when absolutely necessary to define the parameters to size() with a variable
+
+size()
+Defines the dimension of the display window in units of pixels
+
+smooth()
+Draws all geometry with smooth (anti-aliased) edges
+
+width
+System variable which stores the width of the display window
+
+frameRate()
+Specifies the number of frames to be displayed every second
+
+
+
+
+
 
