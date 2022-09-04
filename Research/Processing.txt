@@ -192,8 +192,8 @@ System variable which stores the width of the display window
 frameRate()
 Specifies the number of frames to be displayed every second
 
-
-
-
-
+I have worked out that I can use processing on the raspberry pi 
+all you need to do is to download processing into the raspberry pi and operate it from their.
+The only step after that is to add a HDMI connector and controll processing however you feel
+link for details: https://www.youtube.com/watch?v=qmBSPxA4mR8 (has included link in description for more details) 
 
